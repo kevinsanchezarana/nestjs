@@ -1,7 +1,7 @@
 ## Docker
 
 ```bash
-$ `docker-compose up
+$ docker-compose up
 ```
 `localhost:3000 --> Navegador`
 
